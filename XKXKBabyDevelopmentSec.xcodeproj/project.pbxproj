@@ -15,6 +15,22 @@
 		3419F8651D17B93B00DBD11A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3419F8631D17B93B00DBD11A /* LaunchScreen.storyboard */; };
 		3419F8701D17B93B00DBD11A /* XKXKBabyDevelopmentSecTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3419F86F1D17B93B00DBD11A /* XKXKBabyDevelopmentSecTests.m */; };
 		3419F87B1D17B93B00DBD11A /* XKXKBabyDevelopmentSecUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3419F87A1D17B93B00DBD11A /* XKXKBabyDevelopmentSecUITests.m */; };
+		3419F88A1D17BB4000DBD11A /* XKView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3419F8891D17BB4000DBD11A /* XKView.m */; };
+		3419F88D1D17BBAB00DBD11A /* XKCollectionViewLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 3419F88C1D17BBAB00DBD11A /* XKCollectionViewLayout.m */; };
+		3419F8951D17DDC800DBD11A /* XKCircleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3419F8941D17DDC800DBD11A /* XKCircleCell.m */; };
+		3419F89E1D17EE6600DBD11A /* 指针@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F8961D17EE6600DBD11A /* 指针@2x.png */; };
+		3419F89F1D17EE6600DBD11A /* 指针@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F8971D17EE6600DBD11A /* 指针@3x.png */; };
+		3419F8A01D17EE6600DBD11A /* 顶部栏@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F8981D17EE6600DBD11A /* 顶部栏@2x.png */; };
+		3419F8A11D17EE6600DBD11A /* 顶部栏@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F8991D17EE6600DBD11A /* 顶部栏@3x.png */; };
+		3419F8A21D17EE6600DBD11A /* 头像小王子@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F89A1D17EE6600DBD11A /* 头像小王子@2x.png */; };
+		3419F8A31D17EE6600DBD11A /* 头像小王子@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F89B1D17EE6600DBD11A /* 头像小王子@3x.png */; };
+		3419F8A41D17EE6600DBD11A /* 椭圆@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F89C1D17EE6600DBD11A /* 椭圆@2x.png */; };
+		3419F8A51D17EE6600DBD11A /* 椭圆@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F89D1D17EE6600DBD11A /* 椭圆@3x.png */; };
+		3419F8C11D1B84CB00DBD11A /* 阴影750x60px.png in Resources */ = {isa = PBXBuildFile; fileRef = 3419F8C01D1B84CA00DBD11A /* 阴影750x60px.png */; };
+		34D0B9FE1D28FA960012E0C3 /* RometeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34D0B9FD1D28FA960012E0C3 /* RometeView.m */; };
+		34FAA1541D263B25002389AB /* XKCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34FAA1531D263B25002389AB /* XKCollectionView.m */; };
+		34FAA1571D264E12002389AB /* XKBezierPathView.m in Sources */ = {isa = PBXBuildFile; fileRef = 34FAA1561D264E12002389AB /* XKBezierPathView.m */; };
+		34FAA15A1D28AB0D002389AB /* KTOneFingerRotationGestureRecognizer.m in Sources */ = {isa = PBXBuildFile; fileRef = 34FAA1591D28AB0D002389AB /* KTOneFingerRotationGestureRecognizer.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +67,30 @@
 		3419F8761D17B93B00DBD11A /* XKXKBabyDevelopmentSecUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XKXKBabyDevelopmentSecUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3419F87A1D17B93B00DBD11A /* XKXKBabyDevelopmentSecUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XKXKBabyDevelopmentSecUITests.m; sourceTree = "<group>"; };
 		3419F87C1D17B93B00DBD11A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3419F8881D17BB4000DBD11A /* XKView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKView.h; sourceTree = "<group>"; };
+		3419F8891D17BB4000DBD11A /* XKView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XKView.m; sourceTree = "<group>"; };
+		3419F88B1D17BBAB00DBD11A /* XKCollectionViewLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKCollectionViewLayout.h; sourceTree = "<group>"; };
+		3419F88C1D17BBAB00DBD11A /* XKCollectionViewLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XKCollectionViewLayout.m; sourceTree = "<group>"; };
+		3419F88E1D17BD9B00DBD11A /* XKCircleMacros.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XKCircleMacros.h; sourceTree = "<group>"; };
+		3419F8931D17DDC800DBD11A /* XKCircleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKCircleCell.h; sourceTree = "<group>"; };
+		3419F8941D17DDC800DBD11A /* XKCircleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XKCircleCell.m; sourceTree = "<group>"; };
+		3419F8961D17EE6600DBD11A /* 指针@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "指针@2x.png"; sourceTree = "<group>"; };
+		3419F8971D17EE6600DBD11A /* 指针@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "指针@3x.png"; sourceTree = "<group>"; };
+		3419F8981D17EE6600DBD11A /* 顶部栏@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "顶部栏@2x.png"; sourceTree = "<group>"; };
+		3419F8991D17EE6600DBD11A /* 顶部栏@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "顶部栏@3x.png"; sourceTree = "<group>"; };
+		3419F89A1D17EE6600DBD11A /* 头像小王子@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "头像小王子@2x.png"; sourceTree = "<group>"; };
+		3419F89B1D17EE6600DBD11A /* 头像小王子@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "头像小王子@3x.png"; sourceTree = "<group>"; };
+		3419F89C1D17EE6600DBD11A /* 椭圆@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "椭圆@2x.png"; sourceTree = "<group>"; };
+		3419F89D1D17EE6600DBD11A /* 椭圆@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "椭圆@3x.png"; sourceTree = "<group>"; };
+		3419F8C01D1B84CA00DBD11A /* 阴影750x60px.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "阴影750x60px.png"; sourceTree = "<group>"; };
+		34D0B9FC1D28FA960012E0C3 /* RometeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RometeView.h; sourceTree = "<group>"; };
+		34D0B9FD1D28FA960012E0C3 /* RometeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RometeView.m; sourceTree = "<group>"; };
+		34FAA1521D263B25002389AB /* XKCollectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKCollectionView.h; sourceTree = "<group>"; };
+		34FAA1531D263B25002389AB /* XKCollectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XKCollectionView.m; sourceTree = "<group>"; };
+		34FAA1551D264E12002389AB /* XKBezierPathView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XKBezierPathView.h; sourceTree = "<group>"; };
+		34FAA1561D264E12002389AB /* XKBezierPathView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XKBezierPathView.m; sourceTree = "<group>"; };
+		34FAA1581D28AB0C002389AB /* KTOneFingerRotationGestureRecognizer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KTOneFingerRotationGestureRecognizer.h; sourceTree = "<group>"; };
+		34FAA1591D28AB0D002389AB /* KTOneFingerRotationGestureRecognizer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KTOneFingerRotationGestureRecognizer.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +145,30 @@
 				3419F8591D17B93B00DBD11A /* AppDelegate.m */,
 				3419F85B1D17B93B00DBD11A /* ViewController.h */,
 				3419F85C1D17B93B00DBD11A /* ViewController.m */,
+				3419F88B1D17BBAB00DBD11A /* XKCollectionViewLayout.h */,
+				3419F88C1D17BBAB00DBD11A /* XKCollectionViewLayout.m */,
+				34FAA1521D263B25002389AB /* XKCollectionView.h */,
+				34FAA1531D263B25002389AB /* XKCollectionView.m */,
+				34FAA1551D264E12002389AB /* XKBezierPathView.h */,
+				34FAA1561D264E12002389AB /* XKBezierPathView.m */,
+				3419F8881D17BB4000DBD11A /* XKView.h */,
+				3419F8891D17BB4000DBD11A /* XKView.m */,
+				3419F8931D17DDC800DBD11A /* XKCircleCell.h */,
+				3419F8941D17DDC800DBD11A /* XKCircleCell.m */,
+				3419F88E1D17BD9B00DBD11A /* XKCircleMacros.h */,
+				34FAA1581D28AB0C002389AB /* KTOneFingerRotationGestureRecognizer.h */,
+				34FAA1591D28AB0D002389AB /* KTOneFingerRotationGestureRecognizer.m */,
+				34D0B9FC1D28FA960012E0C3 /* RometeView.h */,
+				34D0B9FD1D28FA960012E0C3 /* RometeView.m */,
+				3419F8C01D1B84CA00DBD11A /* 阴影750x60px.png */,
+				3419F8961D17EE6600DBD11A /* 指针@2x.png */,
+				3419F8971D17EE6600DBD11A /* 指针@3x.png */,
+				3419F8981D17EE6600DBD11A /* 顶部栏@2x.png */,
+				3419F8991D17EE6600DBD11A /* 顶部栏@3x.png */,
+				3419F89A1D17EE6600DBD11A /* 头像小王子@2x.png */,
+				3419F89B1D17EE6600DBD11A /* 头像小王子@3x.png */,
+				3419F89C1D17EE6600DBD11A /* 椭圆@2x.png */,
+				3419F89D1D17EE6600DBD11A /* 椭圆@3x.png */,
 				3419F85E1D17B93B00DBD11A /* Main.storyboard */,
 				3419F8611D17B93B00DBD11A /* Assets.xcassets */,
 				3419F8631D17B93B00DBD11A /* LaunchScreen.storyboard */,
@@ -202,6 +266,7 @@
 		3419F84A1D17B93B00DBD11A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = XK;
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = zhangXu;
 				TargetAttributes = {
@@ -244,8 +309,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				3419F8651D17B93B00DBD11A /* LaunchScreen.storyboard in Resources */,
+				3419F89E1D17EE6600DBD11A /* 指针@2x.png in Resources */,
+				3419F8A01D17EE6600DBD11A /* 顶部栏@2x.png in Resources */,
+				3419F8A41D17EE6600DBD11A /* 椭圆@2x.png in Resources */,
 				3419F8621D17B93B00DBD11A /* Assets.xcassets in Resources */,
+				3419F8A11D17EE6600DBD11A /* 顶部栏@3x.png in Resources */,
 				3419F8601D17B93B00DBD11A /* Main.storyboard in Resources */,
+				3419F8A31D17EE6600DBD11A /* 头像小王子@3x.png in Resources */,
+				3419F8C11D1B84CB00DBD11A /* 阴影750x60px.png in Resources */,
+				3419F8A51D17EE6600DBD11A /* 椭圆@3x.png in Resources */,
+				3419F8A21D17EE6600DBD11A /* 头像小王子@2x.png in Resources */,
+				3419F89F1D17EE6600DBD11A /* 指针@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +344,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				34D0B9FE1D28FA960012E0C3 /* RometeView.m in Sources */,
 				3419F85D1D17B93B00DBD11A /* ViewController.m in Sources */,
+				34FAA1571D264E12002389AB /* XKBezierPathView.m in Sources */,
+				3419F88D1D17BBAB00DBD11A /* XKCollectionViewLayout.m in Sources */,
+				34FAA1541D263B25002389AB /* XKCollectionView.m in Sources */,
+				3419F88A1D17BB4000DBD11A /* XKView.m in Sources */,
 				3419F85A1D17B93B00DBD11A /* AppDelegate.m in Sources */,
+				3419F8951D17DDC800DBD11A /* XKCircleCell.m in Sources */,
 				3419F8571D17B93B00DBD11A /* main.m in Sources */,
+				34FAA15A1D28AB0D002389AB /* KTOneFingerRotationGestureRecognizer.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -414,6 +495,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XKXKBabyDevelopmentSec/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZhangXu.XKXKBabyDevelopmentSec;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -425,6 +507,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = XKXKBabyDevelopmentSec/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.ZhangXu.XKXKBabyDevelopmentSec;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -496,6 +579,7 @@
 				3419F8811D17B93B00DBD11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3419F8821D17B93B00DBD11A /* Build configuration list for PBXNativeTarget "XKXKBabyDevelopmentSecTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +588,7 @@
 				3419F8841D17B93B00DBD11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3419F8851D17B93B00DBD11A /* Build configuration list for PBXNativeTarget "XKXKBabyDevelopmentSecUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +597,7 @@
 				3419F8871D17B93B00DBD11A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

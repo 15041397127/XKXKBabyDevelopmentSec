@@ -10,6 +10,17 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, copy) NSArray *items;
 
+/**
+ *
+     设置锚点
+ */
+- (CGFloat)offsetForItem:(NSUInteger)item;
+- (void)didEndScrolling;
+- (void)scrollToItem:(NSUInteger)item animated:(BOOL)animated;
+- (void)selectItem:(NSUInteger)item animated:(BOOL)animated;
+
++(CGFloat)heightWithBoundingWidth:(CGFloat )width Title:(NSString *)title;
 @end
 
